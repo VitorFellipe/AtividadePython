@@ -1,0 +1,5 @@
+notas = (4, 7, 2, 9, 1, 5)
+contar_notas = notas.count(6)
+print(contar_notas)
+posicao_nove = notas.index(9)
+print(posicao_nove)
